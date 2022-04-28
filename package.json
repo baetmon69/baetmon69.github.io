@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.5",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "vite": "^2.9.6"
+  },
+  "name": "baetmon69.github.io",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baetmon69/baetmon69.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baetmon69/baetmon69.github.io/issues"
+  },
+  "homepage": "https://github.com/baetmon69/baetmon69.github.io#readme",
+  "description": ""
+}
